@@ -1,0 +1,40 @@
+.icons {
+      width: 50px;
+    height: 50px;
+    fill: rgb(255, 178, 178);
+}
+.iconse {
+      width: 50px;
+    height: 50px;
+    fill: rgb(205, 255, 195);
+}
+.iconser {
+      width: 50px;
+    height: 50px;
+    fill: rgb(196, 206, 255);
+}
+.iconsert {
+      width: 50px;
+    height: 50px;
+    fill: rgb(255, 182, 249);
+}
+.icons:hover {
+         width: 50px;
+    height: 50px;
+    fill: rgb(182, 255, 249);
+}
+.iconse:hover {
+         width: 50px;
+    height: 50px;
+    fill: rgb(244, 255, 182);
+}
+.iconser:hover {
+         width: 50px;
+    height: 50px;
+    fill: rgb(185, 255, 182);
+}
+.iconsert:hover {
+         width: 50px;
+    height: 50px;
+    fill: rgb(255, 229, 182);
+}
